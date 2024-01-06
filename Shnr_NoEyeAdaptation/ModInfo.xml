@@ -3,8 +3,8 @@
 <xml>
 	<ModInfo>
 		<Name value="Shinra's eye adaptation fix" />
-		<Description value="Removes the broken brightness adaptation when going inside." />
-		<Version value="1.0" />
+		<Description value="Removes the brightness adaptation when transitioning between indoors and outdoors." />
+		<Version value="1.0.240106" />
 		
 		<Author value="Shinra (https://www.nexusmods.com/users/198107600)" />
 		<Website value="https://github.com/S-h-i-n-r-a" />
