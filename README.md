@@ -6,5 +6,6 @@
 ``██░░░░░░██░░██░░██░░░░░░██░░██░░██░░██░░██░░██░░██``  
 ``██████████████████████████████████████████████████``  
 
-# NoEyeAdaptation
- A modlet for 7 Days to Die that disables eye adaptation.
+# No Eye Adaptation
+A modlet for 7 Days to Die that disables eye adaptation.  
+No more unreasonably dark interiors!
